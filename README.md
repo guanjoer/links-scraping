@@ -13,11 +13,11 @@
 
 2. 링크를 수집할 대상 **URL** 지정
 
-![Link Scraper Example 1](images/link-scraper-1.png)
+![Link Scraper Example 1](images/link-scraper-1.png){: width="70%"}
 
 3. 대상 URL 페이지의 링크 **수집 완료**
 
-![Link Scraper Example 2](images/link-scraper-2.png)
+![Link Scraper Example 2](images/link-scraper-2.png){: width="70%"}
 
 
 
