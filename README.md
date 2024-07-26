@@ -8,8 +8,7 @@
 
 - 대상 URL: `http://192.168.56.6`(bee-box)
 
-<br/>
-<br/>
+---
 
 1. `streamlit run links_scraping.py` 실행
 
